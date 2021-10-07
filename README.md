@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehulartoon
 - 👀 I’m interested in php laravel and node.js
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently working on node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
